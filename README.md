@@ -1,8 +1,6 @@
 
 # VULCAN // The Opportunity Hunter
 
-![Vulcan Banner](https://via.placeholder.com/1200x400/000000/FF4500?text=VULCAN+%2F%2F+THE+FOUNDRY)
-
 > **"Sometimes we need the beast to come out like RAHH."**
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
