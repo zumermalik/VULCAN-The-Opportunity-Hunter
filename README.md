@@ -65,7 +65,7 @@ When the user flips the toggle:
 graph TD
     A[The Web] -->|Python Scraper| B(Supabase DB)
     B -->|Live Feed| C{Next.js Frontend}
-    C -->|User Flips Magma Switch| D[Gemini 2.0 Flash Agent]
+    C -->|User Flips Magma Switch| D[Gemini 3.0 Flash Agent]
     D -->|Deep Recon| E[Company News/Github]
     D -->|Analysis| F[Strategy Output]
     F -->|Render| C
