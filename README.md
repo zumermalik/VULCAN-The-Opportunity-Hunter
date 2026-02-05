@@ -6,7 +6,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green?style=for-the-badge&logo=supabase)](https://supabase.com/)
-[![Gemini](https://img.shields.io/badge/AI-Gemini_2.0_Flash-blue?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini/)
+[![Gemini](https://img.shields.io/badge/AI-Gemini_3.0_Flash-blue?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini/)
 [![Status](https://img.shields.io/badge/Status-MAGMA_ACTIVE-red?style=for-the-badge)]()
 
 ## 🌋 The Problem: Passive Aggregation
